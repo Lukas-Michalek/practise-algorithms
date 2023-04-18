@@ -1,0 +1,1 @@
+Find out if the list of numbers contain Phytagoras Numbers.
